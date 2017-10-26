@@ -15,5 +15,5 @@
 # bruno
 - ttypo 1
 - tyypo 2
-- typpo 3
+- typo 3
 - typoo 4
