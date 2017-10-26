@@ -16,4 +16,4 @@
 - typo 1
 - tyypo 2
 - typo 3
-- typoo 4
+- typo 4
